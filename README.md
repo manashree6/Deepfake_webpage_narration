@@ -31,16 +31,19 @@ Users can listen to webpage content narrated in a *deepfake-generated administra
 
 ## Installation
 bash
-git clone https://github.com/shwetha-17-9/Deepfake_webpage_narration.git
+```
+git clone https://github.com/manashree6/Deepfake_webpage_narration.git
 cd Deepfake_webpage_narration
 pip install -r requirements.txt
-
+```
 
 ## Usage
 After installing the dependencies, run the Flask app:
 
 bash
+```
 python test.py
+```
 
 Then open your browser and go to:
 
